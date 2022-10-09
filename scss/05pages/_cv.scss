@@ -1,0 +1,41 @@
+.yellow {
+    min-height: 200px;
+    align-items: center;
+    .fredrik {
+        height: 200px;
+        border-radius: 50%;    
+    }
+    .orange {
+        width: 100vw;
+        background-color: orange;
+    }
+    h1, h2 {
+        margin: 0;
+        margin-left: 3rem;
+        padding: 0;
+    }
+}
+
+.right {
+    padding: 2rem;
+    height: 100vh;
+    background-color: darkgrey;
+    float: right;
+}
+
+.contact, .hobbies, .education, .experience {
+    height: 3rem;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
+.left {
+    padding: 2rem;
+    height: 100vh;
+    background-color: darkgrey;
+    float: left;
+}
+
+
+

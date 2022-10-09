@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+    color: whitesmoke;
+}
+
+.flex {
+    display: flex;
+    gap: var(--gap, 1rem);
+}

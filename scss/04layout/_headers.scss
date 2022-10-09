@@ -1,5 +1,26 @@
 /* PRIMARY HEADER */
-
 body {
-    background-color: yellow;
+    background-color: black;
 }
+
+.logo {
+    height: 50px;
+}
+
+.primary-header {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.primary-navigation {
+    list-style: none;
+    a {
+        text-decoration: none;
+    }
+    span {
+        font-weight: 700;
+        margin-inline-end: 0.65rem;
+    }
+}
+
+
